@@ -3,10 +3,10 @@ File: add2.py
 Name: Annby
 ------------------------
 TODO:
+The function of this code is to add two non-negative integers represented as singly linked lists stored in reverse order.
 """
 
 import sys
-
 
 class ListNode:
     def __init__(self, data=0, pointer=None):
