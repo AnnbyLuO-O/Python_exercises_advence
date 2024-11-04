@@ -3,6 +3,8 @@ File: boggle.py
 Name: Annby
 ----------------------------------------
 TODO:
+This program implements an algorithm for searching words in a grid of letters, 
+effectively finding valid words from the user's input of a 4x4 letter grid and measuring the execution time of the algorithm.
 """
 
 import time
