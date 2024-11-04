@@ -25,9 +25,6 @@ window = GWindow(width=WINDOW_WIDTH, height=WINDOW_HEIGHT)  # The canvas to draw
 
 
 def main():
-	"""
-	TODO:
-	"""
 	sierpinski_triangle(ORDER, LENGTH, UPPER_LEFT_X, UPPER_LEFT_Y)
 
 
