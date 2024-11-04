@@ -34,11 +34,7 @@ def main():
             break
         start = time.time()
         find_anagrams(s)
-        ####################
-        #                  #
-        #       TODO:      #
-        #                  #
-        ####################
+       
         end = time.time()
         print('----------------------------------')
         print(f'The speed of your anagram algorithm: {end-start} seconds.')
