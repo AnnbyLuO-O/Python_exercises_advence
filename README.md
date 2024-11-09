@@ -7,8 +7,6 @@ This repository holds my Python programming projects done during 2022-2023.
   * Data Structures & Algorithms
 * [anagram](https://github.com/AnnbyLuO-O/Python_exercises_advence/edit/main/python_exercises_advence/anagram.py)
   * Data Structures & Algorithms & WordGames
-* [boggle](https://github.com/AnnbyLuO-O/Python_exercises_advence/blob/main/python_exercises_advence/boggle.py)
-  * Data Structures & Algorithms & WordGames
 * [bouncing_ball](https://github.com/AnnbyLuO-O/Python_exercises_advence/blob/main/python_exercises_advence/bouncing_ball.py)
   * Data Structures & Algorithms & Event-Driven Programming & (GUI) Programming & Object-Oriented Programming & Performance Optimization
 * [breakout](https://github.com/AnnbyLuO-O/Python_exercises_advence/blob/main/python_exercises_advence/breakout.py)
