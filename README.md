@@ -27,3 +27,4 @@ This repository holds my Python programming projects done during 2022-2023.
   * [demo](https://youtu.be/7a1U-Kg2oLo)
 * [sierpinski](https://github.com/AnnbyLuO-O/Python_exercises_advence/blob/main/python_exercises_advence/sierpinski.py)
   * recursive functions
+  * [demo](https://youtu.be/xx9BV47dn0w)
