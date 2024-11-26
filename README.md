@@ -9,6 +9,7 @@ This repository holds my Python programming projects done during 2022-2023.
   * Data Structures & Algorithms & WordGames
 * [bouncing_ball](https://github.com/AnnbyLuO-O/Python_exercises_advence/blob/main/python_exercises_advence/bouncing_ball.py)
   * Data Structures & Algorithms & Event-Driven Programming & (GUI) Programming & Object-Oriented Programming & Performance Optimization
+  * [demo](https://youtu.be/7a1U-Kg2oLo)
 * [breakout](https://github.com/AnnbyLuO-O/Python_exercises_advence/blob/main/python_exercises_advence/breakout.py)
   * Data Structures & Event-Driven Programming & (GUI) Programming & Performance Optimization & Game Development
 * [breakoutgraphics](https://github.com/AnnbyLuO-O/Python_exercises_advence/blob/main/python_exercises_advence/breakoutgraphics.py)
@@ -22,5 +23,6 @@ This repository holds my Python programming projects done during 2022-2023.
   * python semantics & syntax
 * [playone陪我玩](https://github.com/AnnbyLuO-O/Python_exercises_advence/blob/main/python_exercises_advence/playone%E9%99%AA%E6%88%91%E7%8E%A9.py)
   * Data Structures & Algorithms & Event-Driven Programming & (GUI) Programming & Object-Oriented Programming
+  * [demo](https://youtu.be/7a1U-Kg2oLo)
 * [sierpinski](https://github.com/AnnbyLuO-O/Python_exercises_advence/blob/main/python_exercises_advence/sierpinski.py)
   * recursive functions
